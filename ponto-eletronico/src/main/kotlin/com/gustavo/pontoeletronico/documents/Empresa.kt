@@ -1,4 +1,4 @@
-package main.kotlin.com.gustavo.pontoeletronico.documentos
+package com.gustavo.pontoeletronico.documents
 
 import org.springframework.data.annotation.Id
 import org.springframework.data.mongodb.core.mapping.Document

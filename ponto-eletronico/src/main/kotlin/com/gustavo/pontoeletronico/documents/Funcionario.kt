@@ -1,4 +1,4 @@
-package com.gustavo.pontoeletronico.documentos
+package com.gustavo.pontoeletronico.documents
 
 import main.kotlin.com.gustavo.pontoeletronico.enums.PerfilEnum
 import org.springframework.data.annotation.Id

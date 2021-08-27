@@ -1,6 +1,6 @@
-package com.gustavo.pontoeletronico.repositorios
+package com.gustavo.pontoeletronico.repositories
 
-import com.gustavo.pontoeletronico.documentos.Lancamento
+import com.gustavo.pontoeletronico.documents.Lancamento
 import org.springframework.data.domain.Page
 import org.springframework.data.domain.Pageable
 import org.springframework.data.mongodb.repository.MongoRepository

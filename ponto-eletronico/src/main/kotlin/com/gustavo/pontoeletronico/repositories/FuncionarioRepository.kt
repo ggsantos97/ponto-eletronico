@@ -1,6 +1,6 @@
-package com.gustavo.pontoeletronico.repositorios
+package com.gustavo.pontoeletronico.repositories
 
-import com.gustavo.pontoeletronico.documentos.Funcionario
+import com.gustavo.pontoeletronico.documents.Funcionario
 import org.springframework.data.mongodb.repository.MongoRepository
 
 interface FuncionarioRepository : MongoRepository<Funcionario, String> {

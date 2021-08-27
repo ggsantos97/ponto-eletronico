@@ -1,6 +1,7 @@
-package com.gustavo.pontoeletronico.repositorios
+package com.gustavo.pontoeletronico.repositories
 
-import main.kotlin.com.gustavo.pontoeletronico.documentos.Empresa
+
+import com.gustavo.pontoeletronico.documents.Empresa
 import org.springframework.data.mongodb.repository.MongoRepository
 
 interface EmpresaRepository : MongoRepository<Empresa, String> {
